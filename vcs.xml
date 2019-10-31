@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Rapolina/automatic-octo-sniffle" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Rapolina/java-it-academy-zodiac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/GitHub" />
   </component>
 </application>
