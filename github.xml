@@ -3,5 +3,8 @@
     <account id="403277bc-0662-4430-875e-249f2bb31a90" name="Rapolina">
       <server host="github.com" />
     </account>
+    <account id="aaf0a4a0-f2bd-4ac3-a341-800a2e769434" name="Rapolina">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
