@@ -6,6 +6,7 @@
       <mapping pattern="BookingHeaderCheck" type="PLAIN_TEXT" />
       <mapping pattern="entries" type="PLAIN_TEXT" />
       <mapping pattern="BookingAccountCreation" type="PLAIN_TEXT" />
+      <mapping pattern="BookingFavHotel" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
