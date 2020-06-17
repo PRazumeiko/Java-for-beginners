@@ -9,6 +9,7 @@
       <mapping pattern="entries" type="PLAIN_TEXT" />
       <mapping pattern="BookingHeadElements" type="PLAIN_TEXT" />
       <mapping pattern="usersApiTest" type="PLAIN_TEXT" />
+      <mapping pattern="cinema" type="PLAIN_TEXT" />
       <mapping pattern="BookingAccountCreation" type="PLAIN_TEXT" />
       <mapping pattern="fullNameLong" type="PLAIN_TEXT" />
       <mapping pattern="partialNameShort" type="PLAIN_TEXT" />
