@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ex.java" type="JAVA" />
       <mapping pattern="BookingFavHotel" type="PLAIN_TEXT" />
+      <mapping pattern="WebServices" type="PLAIN_TEXT" />
       <mapping pattern="BookingHeaderCheck" type="PLAIN_TEXT" />
       <mapping pattern="fullNameShort" type="PLAIN_TEXT" />
       <mapping pattern="entries" type="PLAIN_TEXT" />
